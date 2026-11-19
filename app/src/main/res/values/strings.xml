@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">实验一 HelloAndroid</string>
+    <string name="lab_title">实验一 · Android 开发基础</string>
+    <string name="lab_desc">本界面用于验证 Android 工程是否创建成功：加载布局、获取控件、响应点击事件，并用 Toast 与 Log 输出结果。</string>
+    <string name="hint_name">请输入你的姓名</string>
+    <string name="btn_greet">打招呼</string>
+    <string name="btn_clear">清空输入</string>
+</resources>
